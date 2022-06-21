@@ -4,6 +4,7 @@ int main ()
 
 	printf("Primeiro");
 	
+aDICIONA
 
    return EXIT_SUCCESS;
 }
